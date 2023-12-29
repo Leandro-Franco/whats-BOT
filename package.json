@@ -1,0 +1,23 @@
+{
+  "name": "whats-bot",
+  "version": "1.0.0",
+  "description": "Projeto de estudo prático, visando estruturação, implementação e documentação de um bot para auxiliar no atendimento no WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandro-Franco/whats-BOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leandro-Franco/whats-BOT/issues"
+  },
+  "homepage": "https://github.com/Leandro-Franco/whats-BOT#readme",
+  "devDependencies": {
+    "typescript": "4.4"
+  }
+}
